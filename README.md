@@ -7,11 +7,11 @@ ___
 
 * **Product Category:** Mobile applications focused on fitness tracking, workout guidance, and related features.
 * **Competitors Analyzed:**
-    * [Strava](competitors/strava.md)
-    * [Nike Training Club](competitors/nike-training-club.md)
-    * [Peloton](competitors/peloton.md)
-    * [MyFitnessPal](competitors/myfitnesspal.md)
-    * [Apple Fitness+](competitors/apple-fitness-plus.md)
+    * [Strava](https://www.strava.com/mobile)
+    * [Nike Training Club](https://www.nike.com/ntc-app)
+    * [Peloton](https://www.onepeloton.com/app)
+    * [MyFitnessPal](https://www.myfitnesspal.com/)
+    * [Apple Fitness+](https://www.apple.com/apple-fitness-plus/)
 ___
 **Methodology:**
 
